@@ -1,0 +1,14 @@
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+F:\Programming\MasonJohnsonPortfolioProjects\TicTacToe\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
